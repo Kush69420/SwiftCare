@@ -5,9 +5,9 @@ import AboutAIChat from '@/components/AboutAIChat';
 export default function About() {
   const team = [
     { name: "Kush Agrawal", role: "AI & Backend", icon: <BrainCircuit size={20} />, desc: "Architected the AI logic and neural symptom assessment." },
-    { name: "xyz ", role: "Lead Full-Stack", icon: <Code2 size={20} />, desc: "Engineered the real-time staff dashboard and session synchronization." },
-    { name: " abc", role: "UI/UX & Frontend", icon: <Layout size={20} />, desc: "Designed the clinical interface and patient portal experience." },
-    { name: "89008", role: "Systems & Database", icon: <Database size={20} />, desc: "Optimized PostgreSQL performance and medical profile persistence." }
+    { name: "Karan", role: "Lead Full-Stack", icon: <Code2 size={20} />, desc: "Engineered the real-time staff dashboard and session synchronization." },
+    { name: "Keerat", role: "UI/UX & Frontend", icon: <Layout size={20} />, desc: "Designed the clinical interface and patient portal experience." },
+    { name: "Abhishek", role: "Systems & Database", icon: <Database size={20} />, desc: "Optimized PostgreSQL performance and medical profile persistence." }
   ];
 
   return (
